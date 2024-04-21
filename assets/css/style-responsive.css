@@ -1,0 +1,18 @@
+@media screen and (min-width: 200px) and (max-width: 900px) {
+    .mfd-c {
+    flex-direction: column;
+    }
+
+    .mtac{
+        text-align: center;
+    }
+
+    .mnw-100p{
+        width: 100% !important;
+    }
+
+    .mpd-15{
+        padding: 15px;
+    }
+
+}
